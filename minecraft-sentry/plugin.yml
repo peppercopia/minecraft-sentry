@@ -1,0 +1,11 @@
+main: ca.vigilem.minecraft.MinecraftSentry.Main
+name: MinecraftSentry
+version: 1.0
+author: peppercopia@gmail.com
+description: A Minecraft sentry that will watch for various events and react accordingly.
+commands:
+  mycommand:
+    description: An example command
+    usage: /mycommand
+    permission: minecraftsentry.mycommand
+    permission-message: You don't have the MinecraftSentry permission.
