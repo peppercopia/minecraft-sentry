@@ -9,3 +9,4 @@ commands:
     usage: /mycommand
     permission: minecraftsentry.mycommand
     permission-message: You don't have the MinecraftSentry permission.
+    

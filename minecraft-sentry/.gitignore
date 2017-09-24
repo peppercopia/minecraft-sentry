@@ -1,5 +1,5 @@
 /bin/
-
+/dependencies/
 /target/
 /.classpath
 /.settings/
