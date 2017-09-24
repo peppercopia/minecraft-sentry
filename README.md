@@ -4,10 +4,10 @@ A Minecraft plugin that lets you keep an eye on your kids use of a Minecraft ser
 <H3>Implemented Features:</H3>
 
 * Publishes an event on the configured MQTT broker when:
-** a user logs on the server
-** a user logs out of the server
-** the server starts
-** the server stops
+* ..a user logs on the server
+* ..a user logs out of the server
+* ..the server starts
+* ..the server stops
 
 Configuration options are stored in the standard config.yml file.
 
