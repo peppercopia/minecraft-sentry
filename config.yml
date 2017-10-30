@@ -1,0 +1,5 @@
+broker-url : tcp://hostname:1883
+mqtt-username : mqttusername
+mqtt-password : mqttpassword
+mqtt-serverid : servernamefortopic   
+mqtt-topic-prefix : minecraft/servers/
