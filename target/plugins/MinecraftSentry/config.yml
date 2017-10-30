@@ -1,5 +1,5 @@
-broker-url: tcp://192.168.2.19:1883
-mqtt-username: mcsentry
-mqtt-password: gandalf1
+broker-url: tcp://ipaddress:1883
+mqtt-username: mqttusername
+mqtt-password: mqttpassword
 mqtt-serverid: sentrytestserver
 mqtt-topic-prefix: minecraft/servers/
