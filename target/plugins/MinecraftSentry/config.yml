@@ -1,5 +1,0 @@
-broker-url: tcp://ipaddress:1883
-mqtt-username: mqttusername
-mqtt-password: mqttpassword
-mqtt-serverid: sentrytestserver
-mqtt-topic-prefix: minecraft/servers/
